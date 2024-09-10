@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1uepseTEy5/](https://www.bilibili.com/video/BV1uepseTEy5/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
+[https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
 ## 基于Java+Springboot+vue3+小程序的宠物店小程序系统(源代码+数据库)171
 
